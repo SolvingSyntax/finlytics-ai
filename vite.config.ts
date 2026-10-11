@@ -19,10 +19,10 @@ export default defineConfig(async (env) => {
     }),
   ];
 
-  // Server build target (Cloudflare module worker) — production builds only.
+  // Server build target (Vercel Node functions) — production builds only.
   if (env.command === "build") {
     const { nitro } = await import("nitro/vite");
-    plugins.push(nitro({ defaultPreset: "cloudflare-module" }));
+    plugins.push(nitro({ defaultPreset: "vercel" }));
   }
 
   plugins.push(viteReact());
