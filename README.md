@@ -1,6 +1,6 @@
 # FinLytics AI — Market Sentiment Dashboard
 
-> An NLP mini-project: a real-time sentiment dashboard for Indian equities, powered by
+> A real-time sentiment dashboard for Indian equities, powered by
 > **FinBERT** — a BERT transformer fine-tuned on financial text — running entirely in the
 > browser.
 
