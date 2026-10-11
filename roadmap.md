@@ -1,0 +1,15 @@
+# Roadmap
+- [x] Rebrand all UI, metadata, documentation and app icons to FinLytics AI while preserving the design.
+- [x] Remove fabricated prices, volumes, news, sentiment and chart history; poll actual quotes with honest timestamps.
+- [x] Repair FinBERT status and run genuine model inference without dummy sentiment.
+- [x] Refine price transitions and fix header overlap; verify dashboard controls.
+- [x] Replace preset-only search with actual company/ticker/ETF lookup.
+- [x] Keep existing website design (user request) — only add within current style
+- [x] Add US + crypto assets (AAPL, TSLA, NVDA, BTC, SPY) alongside Indian stocks, correct currency
+- [x] Remove fabricated social feed and historical sentiment; use provider news and real price history only.
+- [x] Sentiment alert thresholds panel
+- [x] Dark/light toggle, loading skeletons
+- [x] Show closed-market status and last trade time; verify unchanged closing quotes never animate.
+- [x] Remove all sign-in (social, OTP and verification emails) so the site is fully open; preferences stored on the visitor's device.
+- [x] Refresh README.md and SETUP.md so they match the code (in-browser FinBERT, Bing News, no sign-in).
+- [x] Deliver the project as a ZIP for VS Code with step-by-step run instructions.

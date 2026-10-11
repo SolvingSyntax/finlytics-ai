@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791628465928,
+      "tag": "0000_private_market_profiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791630910641,
+      "tag": "0001_ask_finlytics_chat",
+      "breakpoints": true
+    }
+  ]
+}

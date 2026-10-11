@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>FinLytics AI</title>
+  <rect width="64" height="64" rx="12" fill="#285BBD"/>
+  <path d="M17 47V17H45M17 30H32" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"/>
+  <path d="M29 46L37 38L43 41L51 31" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
